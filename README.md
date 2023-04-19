@@ -38,11 +38,11 @@ I am a software developer with robust problem-solving skills and proven experien
   </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvaro-S89&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucydct22&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/%C3%A1lvaro-s%C3%A1nchez-robles-b69baa26a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandroaperez1994g" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucia-del-cacho-1a7950272/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alejandroaperez1994g" height="30" width="40" /></a>
 </p>
 
 </div>
@@ -51,7 +51,7 @@ I am a software developer with robust problem-solving skills and proven experien
 
 <div align="center">
  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Alvaro-S89&theme=transparent)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lucydct22&theme=transparent)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvaro-S89&show_icons=true&theme=transparent)
 
