@@ -53,14 +53,14 @@ I am a software developer with robust problem-solving skills and proven experien
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=lucydct22&theme=transparent)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alvaro-S89&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucydct22&show_icons=true&theme=transparent)
 
 
 </div>
 <div align="center">
  <p>You are the visitor number</p>
   
-  ![Visitor Count](https://profile-counter.glitch.me/Alvaro-S89/count.svg)
+  ![Visitor Count](https://profile-counter.glitch.me/lucydct22/count.svg)
   
    <p>Thanks for visiting   💫<br>See you soon!</p>
   
