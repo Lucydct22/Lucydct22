@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a software developer with robust problem-solving skills and proven experience in creating and designing software in a test-driven environment.As a diligent and affable full-stack developer, I am highly skilled in teamwork and thrive in challenging roles that allow me to leverage my creativity to contribute to the industry's growth.
+
 <!--
 **Lucydct22/Lucydct22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
